@@ -134,7 +134,7 @@ echo -e "\e[33m#===============================================#\e[0m"
 echo -e "\e[33m# Software terminated.                          #\e[0m"
 echo -e "\e[33m#                                               #\e[0m"
 echo -e "\e[33m# Give me a star and submit issues on Github!   #\e[0m"
-echo -e "\e[33m# https://github.com/mategol/PySilon-malware    #\e[0m"
+echo -e "\e[33m# https://github.com/anfargaming/Final-Project  #\e[0m"
 echo -e "\e[33m#===============================================#\e[0m"
 echo
 echo
